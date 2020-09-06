@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0FE109E4-4C9E-F428-284F-A4BAD63AA12E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VRbuild",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"PS4",
+		"WindowsNoEditor"
+	]
+}
